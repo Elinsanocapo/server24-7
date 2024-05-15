@@ -1,8 +1,8 @@
 {
   "client": {
-    "host": "ip.aternos.me",
-    "port": "25565",
-    "username": "Bot2024"
+    "host": "162.55.3.102",
+    "port": "25656",
+    "username": "Bot-sex-24/7"
   },
   "logLevel": ["error", "log", "debug"],
   "action": {
